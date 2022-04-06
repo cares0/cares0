@@ -36,7 +36,7 @@
 <hr>
 
 <div align="center">
-<h4>What I plan to study is...</h4>
+<h4>What I'm going to study is...</h4>
 
 <br>
 
