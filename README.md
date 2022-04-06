@@ -2,16 +2,16 @@
 
 <div align="center">
     <h2>🙌안녕하세요! 주니어 웹개발자 김영준입니다</h2>
-    <br>
-    <hr>
 <div>
 
 <br>
+<hr>
 
 <div align="center">
-What I've been studying is...
+<h4>What I've been studying is...</h4>
 
 <br>
+
 <img src="https://img.shields.io/badge/Java-468aab?style=flat-square&logo=Java&logoColor=#007396"/>
 <img src="https://img.shields.io/badge/Spring-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/MyBatis-b8bec1?style=flat-square&"/>
@@ -24,22 +24,22 @@ What I've been studying is...
 
 <br>
 </div>
+
 <hr>
 
 <div align="center">
-<br>
-What I’m currently studying is...
-
+<h4>What I’m currently studying is...</h4>
 
 <br>
 </div>
+
 <hr>
 
 <div align="center">
-<br>
-What I plan to study is...
+<h4>What I plan to study is...</h4>
 
 <br>
+
 <img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
 <img src="https://img.shields.io/badge/jQuery-5597df?style=flat-square&logo=jQuery&logoColor=#0769AD"/>
 <img src="https://img.shields.io/badge/JSON-676767?style=flat-square&logo=JSON&logoColor=#000000"/>
@@ -51,9 +51,7 @@ What I plan to study is...
 
 <hr>
 <div align="center">
-
-<br>
-My Github statistic is...
+<h4>My Github statistic is...<h4>
 
 <br>
 
