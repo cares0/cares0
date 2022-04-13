@@ -31,6 +31,10 @@
 <h4>What I’m currently studying is...</h4>
 
 <br>
+
+<img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
+
+<br>
 </div>
 
 <hr>
@@ -44,7 +48,6 @@
 <img src="https://img.shields.io/badge/jQuery-5597df?style=flat-square&logo=jQuery&logoColor=#0769AD"/>
 <img src="https://img.shields.io/badge/JSON-676767?style=flat-square&logo=JSON&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/Hibernate-86949a?style=flat-square&logo=Hibernate&logoColor=#59666C"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
 
 <br>
 </div>
