@@ -54,7 +54,7 @@
 
 <hr>
 <div align="center">
-<h4>My Github statistic are...<h4>
+<h4>My Github statistics are...<h4>
 
 <br>
 
