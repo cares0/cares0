@@ -28,7 +28,7 @@
 <hr>
 
 <div align="center">
-<h4>What I’m currently studying is...</h4>
+<h4>What I’m currently studying are...</h4>
 
 <br>
 
@@ -40,7 +40,7 @@
 <hr>
 
 <div align="center">
-<h4>What I'm going to study is...</h4>
+<h4>What I'm going to study are...</h4>
 
 <br>
 
@@ -54,7 +54,7 @@
 
 <hr>
 <div align="center">
-<h4>My Github statistic is...<h4>
+<h4>My Github statistic are...<h4>
 
 <br>
 
