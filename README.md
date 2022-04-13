@@ -8,7 +8,7 @@
 <hr>
 
 <div align="center">
-<h4>What I've been studying is...</h4>
+<h4>What I've been studying are...</h4>
 
 <br>
 
