@@ -17,7 +17,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Java-468aab?style=flat-square&logo=Java&logoColor=#007396"/>
-<img src="https://img.shields.io/badge/Spring-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/MyBatis-b8bec1?style=flat-square&"/>
 <img src="https://img.shields.io/badge/OracleDB-7e0000?style=flat-square&logo=Oracle&logoColor=#F80000"/>
 <br>
@@ -25,6 +24,7 @@
 <img src="https://img.shields.io/badge/CSS-5ba0e9?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-8c7900?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/Bootstrap5-ab7fe6?style=flat-square&logo=Bootstrap&logoColor=#7952B3"/>
+<img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
 
 
 <br>
@@ -38,9 +38,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
-<img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
+<img src="https://img.shields.io/badge/Spring-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/jQuery-5597df?style=flat-square&logo=jQuery&logoColor=#0769AD"/>
-<img src="https://img.shields.io/badge/Spring Boot-556B2F?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring MVC-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
 
 <br>
 </div>
@@ -52,7 +52,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/JSON-676767?style=flat-square&logo=JSON&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/Hibernate-86949a?style=flat-square&logo=Hibernate&logoColor=#59666C"/>
 <img src="https://img.shields.io/badge/Jenkins-520000?style=flat-square&logo=Jenkins&logoColor=#D24939"/>
 <img src="https://img.shields.io/badge/Docker-c4ffff?style=flat-square&logo=Docker&logoColor=#2496ED"/>
