@@ -27,7 +27,8 @@
 <br>
 <img src="https://img.shields.io/badge/OracleDB-7e0000?style=flat-square&logo=Oracle&logoColor=#F80000"/>
 <img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/AWS EC2-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/AWS RDS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-a91600?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
 <img src="https://img.shields.io/badge/CSS-5ba0e9?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
