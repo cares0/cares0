@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Spring MVC-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
 <br>
 <img src="https://img.shields.io/badge/Spring Data JPA-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Cloud-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/Hibernate-86949a?style=flat-square&logo=Hibernate&logoColor=#59666C"/>
 <img src="https://img.shields.io/badge/Querydsl-b2daff?style=flat-square"/>
 <img src="https://img.shields.io/badge/MyBatis-b8bec1?style=flat-square&"/>
@@ -29,6 +30,9 @@
 <img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
 <img src="https://img.shields.io/badge/AWS EC2-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
 <img src="https://img.shields.io/badge/AWS RDS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/AWS ELB-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/AWS S3-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/Docker-c4ffff?style=flat-square&logo=Docker&logoColor=#2496ED"/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-a91600?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
 <img src="https://img.shields.io/badge/CSS-5ba0e9?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
@@ -61,8 +65,8 @@
 
 
 <img src="https://img.shields.io/badge/Jenkins-520000?style=flat-square&logo=Jenkins&logoColor=#D24939"/>
-<img src="https://img.shields.io/badge/Docker-c4ffff?style=flat-square&logo=Docker&logoColor=#2496ED"/>
 <img src="https://img.shields.io/badge/Kubernetes-7ca4ff?style=flat-square&logo=Kubernetes&logoColor=#326CE5"/>
+<img src="https://img.shields.io/badge/Kotlin-b681ff?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/>
 
 
 
