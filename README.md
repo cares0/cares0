@@ -3,7 +3,7 @@
 <div align="center">
     <h2>안녕하세요🙌<br>주니어 백엔드 개발자 김영준입니다</h2><br>
     <h4>How to contact me...</h4> <br>
-    <a href="https://cares.notion.site/0895ee48164e4939bea43a4399562bf2"><img src="https://img.shields.io/badge/Notion-374344?style=flat-square&logo=Notion&logoColor=#000000"/></a>
+    <a href="https://cares.notion.site/What-I-ve-been-studying-f27f875b48484f22a3e9b18a208eca4e"><img src="https://img.shields.io/badge/Notion-374344?style=flat-square&logo=Notion&logoColor=#000000"/></a>
     <br>
     <h5>cares00000@gmail.com</h5>
 <div>
