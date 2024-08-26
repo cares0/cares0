@@ -1,93 +1,49 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=190&section=header&text=Cares&nbsp;Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=timeauto&text=YoungJun%20Kim&fontColor=f59e0b&fontSize=60&fontAlign=62&fontAlignY=35&desc=cares&descSize=25&descAlign=82&descAlignY=57)
 
-<div align="center">
-    <h2>안녕하세요🙌<br>주니어 백엔드 개발자 김영준입니다</h2><br>
-    <h4>How to contact me...</h4> <br>
-    <a href="https://cares.notion.site/What-I-ve-been-studying-f27f875b48484f22a3e9b18a208eca4e"><img src="https://img.shields.io/badge/Notion-374344?style=flat-square&logo=Notion&logoColor=#000000"/></a>
-    <br>
-    <h5>cares00000@gmail.com</h5>
+
+<div>
+    <h2>안녕하세요👋<br>주니어 백엔드 개발자 김영준입니다.</h2>
 <div>
 
+- **타협하지 않습니다.**   
+    모든 학습에 적당한 수준은 없다고 생각하며, 원리를 바탕으로 응용 가능한 수준으로 학습합니다.   
+    단순히 기능 구현에 목적에 두지 않고, 문제 상황에 가장 적합한 솔루션으로 구현하려고 노력합니다.
+    
+- **기록과 지식 공유를 좋아합니다.**  
+	모든 학습 내용과 작업물을 세세하게 기록하며, 과정별로 정리해 같은 문제를 겪거나 학습하는 사람들에게 공유합니다.
+    
+- **모든 문제는 해결 가능한 문제로 정의합니다.**  
+    기술적으로 구현할 수 없는 문제는 없다고 생각하고, 끊임없는 연구와 학습을 통해 비즈니스 문제를 해결합니다.
+
+---
+
+## Contact
+
+**📮 Email**: [cares00000@gmail.com](mailto:cares00000@gmail.com)   
+**📖 Blog**: [cares-log](https://cares-log.tistory.com)  
+**🏛️ Archive**: [Notion](https://www.notion.so/cares/What-I-ve-been-studying-f27f875b48484f22a3e9b18a208eca4e)
+
+---
+
+## Tech Stack
+<img src="https://img.shields.io/badge/Java-468aab?style=flat&logo=oracle&logoColor=#007396"/>
+<img src="https://img.shields.io/badge/Kotlin-9b74ff?style=flat&logo=kotlin&logoColor=#7F52FF"/>
 <br>
-<hr>
-
-<div align="center">
-<h4>What I've been studying are...</h4>
-
 <br>
-
-<img src="https://img.shields.io/badge/Java-468aab?style=flat-square&logo=Java&logoColor=#007396"/>
-<img src="https://img.shields.io/badge/Spring-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/Spring MVC-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Data JPA-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Cloud-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Security-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring REST Docs-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
 <br>
-<img src="https://img.shields.io/badge/Spring Data JPA-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/Spring Cloud-556B2F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/Hibernate-86949a?style=flat-square&logo=Hibernate&logoColor=#59666C"/>
-<img src="https://img.shields.io/badge/Querydsl-b2daff?style=flat-square"/>
-<img src="https://img.shields.io/badge/MyBatis-b8bec1?style=flat-square&"/>
 <br>
-<img src="https://img.shields.io/badge/OracleDB-7e0000?style=flat-square&logo=Oracle&logoColor=#F80000"/>
-<img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
-<img src="https://img.shields.io/badge/AWS EC2-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
-<img src="https://img.shields.io/badge/AWS RDS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
-<img src="https://img.shields.io/badge/AWS ELB-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
-<img src="https://img.shields.io/badge/AWS S3-232f3e?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
-<img src="https://img.shields.io/badge/Docker-c4ffff?style=flat-square&logo=Docker&logoColor=#2496ED"/>
+<img src="https://img.shields.io/badge/MySQL-9cf0ff?style=flat&logo=MySQL&logoColor=#4479A1"/>
+<img src="https://img.shields.io/badge/Elasticsearch-186887?style=flat&logo=elasticsearch&logoColor=#005571"/>
 <br>
-<img src="https://img.shields.io/badge/HTML5-a91600?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
-<img src="https://img.shields.io/badge/CSS-5ba0e9?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-8c7900?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
-<img src="https://img.shields.io/badge/Bootstrap5-ab7fe6?style=flat-square&logo=Bootstrap&logoColor=#7952B3"/>
-
-
-<!-- <br>
-</div>
-
-<hr>
-
-<div align="center">
-<h4>What I’m currently studying are...</h4>
-
 <br>
-
-
-
-
+<img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazonwebservices&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/Docker-c4ffff?style=flat&logo=Docker&logoColor=#2496ED"/>
 <br>
-</div> -->
-
-<hr>
-
-<div align="center">
-<h4>What I'm going to study are...</h4>
-
 <br>
-
-
-<img src="https://img.shields.io/badge/Jenkins-520000?style=flat-square&logo=Jenkins&logoColor=#D24939"/>
-<img src="https://img.shields.io/badge/Kubernetes-7ca4ff?style=flat-square&logo=Kubernetes&logoColor=#326CE5"/>
-<img src="https://img.shields.io/badge/Kotlin-b681ff?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/>
-
-
-
-
-
-<br>
-</div>
-
-<hr>
-<div align="center">
-<h4>My Github statistics are...<h4>
-
-<br>
-
-<a href="https://github.com/cares0"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcares0&count_bg=%237F857A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cares0)](https://github.com/cares0/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cares0)](https://github.com/cares0/github-readme-stats)
-
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer)
+<img src="https://img.shields.io/badge/Querydsl-b2daff?style=flat"/>
+<img src="https://img.shields.io/badge/MyBatis-b8bec1?style=flat&"/>
