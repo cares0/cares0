@@ -2,18 +2,12 @@
 
 
 <div>
-    <h2>안녕하세요👋<br>주니어 백엔드 개발자 김영준입니다.</h2>
+    <h2>안녕하세요👋<br>주니어 개발자 김영준입니다</h2>
 <div>
 
-- **타협하지 않습니다.**   
-    모든 학습에 적당한 수준은 없다고 생각하며, 원리를 바탕으로 응용 가능한 수준으로 학습합니다.   
-    단순히 기능 구현에 목적에 두지 않고, 문제 상황에 가장 적합한 솔루션으로 구현하려고 노력합니다.
-    
-- **기록과 지식 공유를 좋아합니다.**  
-	모든 학습 내용과 작업물을 세세하게 기록하며, 과정별로 정리해 같은 문제를 겪거나 학습하는 사람들에게 공유합니다.
-    
-- **모든 문제는 해결 가능한 문제로 정의합니다.**  
-    기술적으로 구현할 수 없는 문제는 없다고 생각하고, 끊임없는 연구와 학습을 통해 비즈니스 문제를 해결합니다.
+<br>
+
+Kotlin, Spring 생태계를 중점으로 백엔드 시스템을 구현하는 2년차 개발자입니다.
 
 ---
 
@@ -34,6 +28,7 @@
 <img src="https://img.shields.io/badge/Spring Data JPA-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/Spring Cloud-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/Spring Security-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring Batch-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
 <img src="https://img.shields.io/badge/Spring REST Docs-556B2F?style=flat&logo=Spring&logoColor=#6DB33F"/>
 <br>
 <br>
@@ -47,3 +42,7 @@
 <br>
 <img src="https://img.shields.io/badge/Querydsl-b2daff?style=flat"/>
 <img src="https://img.shields.io/badge/MyBatis-b8bec1?style=flat&"/>
+<br><br>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=#231F20"/>
+<img src="https://img.shields.io/badge/Debezium-6DA252?style=flat"/>
+
